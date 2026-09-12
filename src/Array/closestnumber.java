@@ -19,7 +19,7 @@ public class closestnumber {
         else
             m2 = (q - 1) * m;
 
-        // Use Math.abs() instead of abs()
+
         int d1 = Math.abs(n - m1);
         int d2 = Math.abs(n - m2);
 
